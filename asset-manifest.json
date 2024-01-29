@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cryptoz/static/css/main.4b52b64a.css",
+    "main.js": "/cryptoz/static/js/main.cea0ff5b.js",
+    "static/media/logo.jpg": "/cryptoz/static/media/logo.57cd42a34512080f1800.jpg",
+    "index.html": "/cryptoz/index.html",
+    "main.4b52b64a.css.map": "/cryptoz/static/css/main.4b52b64a.css.map",
+    "main.cea0ff5b.js.map": "/cryptoz/static/js/main.cea0ff5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b52b64a.css",
+    "static/js/main.cea0ff5b.js"
+  ]
+}
